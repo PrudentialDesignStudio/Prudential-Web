@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1200px; height: 630px; overflow: hidden;
+    font-family: 'Georgia', serif;
+    background: #002060;
+    display: flex; align-items: stretch;
+  }
+  .left {
+    width: 420px; flex-shrink: 0;
+    background: #001440;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    padding: 40px;
+    border-right: 3px solid #b71c1c;
+  }
+  .logo-placeholder {
+    width: 140px; height: 140px;
+    border-radius: 50%; background: rgba(255,255,255,0.08);
+    border: 2px solid rgba(200,150,12,0.4);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 64px; color: #c8960c; font-weight: 900;
+    margin-bottom: 24px;
+  }
+  .school-name {
+    font-size: 22px; font-weight: 700; color: #fff;
+    text-align: center; line-height: 1.3; letter-spacing: 0.5px;
+    margin-bottom: 8px;
+  }
+  .school-sub {
+    font-size: 12px; color: rgba(200,150,12,0.8);
+    letter-spacing: 3px; text-transform: uppercase;
+    text-align: center;
+  }
+  .right {
+    flex: 1; padding: 60px 56px;
+    display: flex; flex-direction: column;
+    justify-content: center;
+  }
+  .badge {
+    display: inline-block;
+    background: rgba(183,28,28,0.3); color: #ef9a9a;
+    border: 1px solid rgba(183,28,28,0.5);
+    font-size: 11px; font-weight: 700;
+    letter-spacing: 2.5px; text-transform: uppercase;
+    padding: 5px 14px; border-radius: 3px;
+    margin-bottom: 28px; width: fit-content;
+  }
+  h1 {
+    font-size: 52px; font-weight: 900; color: #fff;
+    line-height: 1.1; margin-bottom: 20px;
+  }
+  h1 em { color: #c8960c; font-style: italic; }
+  p {
+    font-size: 17px; color: rgba(255,255,255,0.72);
+    line-height: 1.7; max-width: 480px; margin-bottom: 36px;
+  }
+  .meta {
+    font-size: 13px; color: rgba(255,255,255,0.35);
+    letter-spacing: 1px; text-transform: uppercase;
+  }
+  .divider {
+    width: 48px; height: 3px;
+    background: linear-gradient(90deg, #b71c1c, #c8960c);
+    margin-bottom: 32px; border-radius: 2px;
+  }
+</style>
+</head>
+<body>
+  <div class="left">
+    <div class="logo-placeholder">P</div>
+    <div class="school-name">Prudential International School</div>
+    <div class="school-sub">Est. 2014 · Abuja</div>
+  </div>
+  <div class="right">
+    <div class="badge">Private School · Gwarinpa, Abuja</div>
+    <h1>Making a <em>Difference</em></h1>
+    <div class="divider"></div>
+    <p>British and Nigerian curricula combined. Nursery, Primary and Secondary — preparing students for the world, not just exams.</p>
+    <div class="meta">prudentialschools.com</div>
+  </div>
+</body>
+</html>

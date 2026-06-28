@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Block admin panel
+Disallow: /pis-admin
+
+Sitemap: https://prudentialschools.com/sitemap.xml

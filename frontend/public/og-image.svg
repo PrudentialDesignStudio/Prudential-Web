@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#002060"/>
+  <rect width="420" height="630" fill="#001440"/>
+  <rect x="417" width="3" height="630" fill="#b71c1c"/>
+  <circle cx="210" cy="220" r="70" fill="none" stroke="rgba(200,150,12,0.4)" stroke-width="2"/>
+  <text x="210" y="240" font-family="Georgia,serif" font-size="64" font-weight="900" fill="#c8960c" text-anchor="middle">P</text>
+  <text x="210" y="310" font-family="Georgia,serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">Prudential International</text>
+  <text x="210" y="334" font-family="Georgia,serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">School</text>
+  <text x="210" y="362" font-family="Arial,sans-serif" font-size="11" fill="rgba(200,150,12,0.8)" text-anchor="middle" letter-spacing="3">EST. 2014 · ABUJA</text>
+  <rect x="504" y="170" width="200" height="26" rx="3" fill="rgba(183,28,28,0.3)" stroke="rgba(183,28,28,0.5)" stroke-width="1"/>
+  <text x="516" y="188" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#ef9a9a" letter-spacing="2">PRIVATE SCHOOL · ABUJA</text>
+  <text x="504" y="268" font-family="Georgia,serif" font-size="52" font-weight="900" fill="white">Making a</text>
+  <text x="504" y="332" font-family="Georgia,serif" font-size="52" font-weight="900" fill="#c8960c" font-style="italic">Difference</text>
+  <rect x="504" y="352" width="48" height="3" rx="2" fill="#b71c1c"/>
+  <text x="504" y="400" font-family="Arial,sans-serif" font-size="16" fill="rgba(255,255,255,0.7)">British and Nigerian curricula combined.</text>
+  <text x="504" y="424" font-family="Arial,sans-serif" font-size="16" fill="rgba(255,255,255,0.7)">Nursery, Primary &amp; Secondary — Gwarinpa, Abuja.</text>
+  <text x="504" y="490" font-family="Arial,sans-serif" font-size="13" fill="rgba(255,255,255,0.35)" letter-spacing="1">PRUDENTIALSCHOOLS.COM</text>
+</svg>
